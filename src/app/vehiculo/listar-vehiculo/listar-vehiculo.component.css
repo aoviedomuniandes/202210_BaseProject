@@ -1,0 +1,29 @@
+.table .thead-dark th {
+  color: #fff;
+  background-color: #333A40;
+  border-color: #32383e;
+}
+
+.resume-div {
+position: absolute;
+width: 617px;
+height: 83px;
+left: 98px;
+top: 829px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+
+.vehicles-table{
+position: absolute;
+width: 792px;
+height: 335px;
+left: 98px;
+top: 467px;
+}

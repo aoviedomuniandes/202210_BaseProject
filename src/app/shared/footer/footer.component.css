@@ -1,0 +1,17 @@
+.footer-text{
+
+  position: absolute;
+  width: 617px;
+  height: 23px;
+  left: 414px;
+  top: 977px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #000000;
+
+}
